@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Run Katalon Tests') {
+        stage('Build') {
             steps {
                 echo 'Hello Shrikant'
             }
