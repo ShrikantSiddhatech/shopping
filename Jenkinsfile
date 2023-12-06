@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                //run this command
+                //run this command xyz
                 echo 'Hello, Shrikant Dabhe! Running main branch..!!'
             }
         }
